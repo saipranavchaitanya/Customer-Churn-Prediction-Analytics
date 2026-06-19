@@ -221,7 +221,7 @@ This project demonstrates how Data Analytics, SQL, Machine Learning, and Power B
 **Data Analyst | Business Analyst**
 
 
-LinkedIn: https://linkedin.com/in/www.anspranavchaitanya.com/in/
+LinkedIn: https://www.linkedin.com/in/anspranavchaitanya
 
 
 

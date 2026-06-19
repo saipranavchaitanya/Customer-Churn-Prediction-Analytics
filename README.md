@@ -220,11 +220,12 @@ This project demonstrates how Data Analytics, SQL, Machine Learning, and Power B
 
 **Data Analyst | Business Analyst**
 
-GitHub: https://github.com/your-github-username
 
-LinkedIn: https://linkedin.com/in/your-linkedin-profile
+LinkedIn: https://linkedin.com/in/www.anspranavchaitanya.com/in/
 
-Email: your-email@example.com
+
+
+Email: anspranavchaitanya@gmail.com
 
 ---
 

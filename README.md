@@ -195,7 +195,7 @@ Customer-Churn-Analysis/
 │   └── churn_queries.sql
 │
 ├── dashboard/
-│   └── Churn_Dashboard.pbix
+│   └── powerbi project(2) .pbix
 │
 ├── charts/
 │   ├── churn_distribution.png
